@@ -1,0 +1,33 @@
+# Compiled files
+*.class
+*.o
+*.out
+*.so
+*.exe
+
+# Temporary files
+*~
+*.swp
+*.tmp
+*.log
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE and editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment and dependency files
+venv/
+env/
+.env
+node_modules/
+
+# Build and distribution directories
+build/
+dist/
+
